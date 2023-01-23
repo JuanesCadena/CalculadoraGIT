@@ -11,6 +11,6 @@ public class calculadora {
 		return a * b;
 		}
 	public int dividir(int a, int b) {
-		return a % b;
+		return a / b;
 		}
        }
